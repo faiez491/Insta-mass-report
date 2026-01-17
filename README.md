@@ -291,11 +291,8 @@ Found a bug? Please open an issue with:
   
 <div align="center">  
   
-**👨‍💻 Producer: Muneeb**  
+**👨‍💻 Producer: faiez
   
-[![Instagram](https://img.shields.io/badge/Instagram-@foileds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/metaui)  
-[![GitHub](https://img.shields.io/badge/GitHub-otterai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otterai)  
-[![Email](https://img.shields.io/badge/Email-chutpaglu@duck.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chutpaglu@duck.com)  
   
 </div>  
   
